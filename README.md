@@ -1,1 +1,1 @@
-# CheatDefuse-Pack
+CheatDefuse resource pack - Automatically downloaded by CheatDefuse
